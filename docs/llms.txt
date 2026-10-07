@@ -1,0 +1,31 @@
+# Akra Dev — AkraDev Studio
+
+> AkraDev Studio (아크라데브스튜디오) develops and operates mobile apps, games, and web and desktop tools in Seoul, South Korea.
+
+## Business
+
+- Representative: LEE SEUNG JOO
+- Korean business registration number: 633-28-02044
+- Date of business start: 2025-10-17
+- Date of business registration: 2025-10-21
+- Business type: Information and communication
+- Business item: Application software publishing
+- Business address: 121 Seogang-ro, Mapo-gu, Seoul, Republic of Korea
+- Contact: help@akra.kr
+
+## Official pages
+
+- [Company and history in English](https://akra.kr/en/company/)
+- [Company and history in Korean](https://akra.kr/company/)
+- [Products](https://akra.kr/en/#showcase)
+- [Google Play developer profile](https://play.google.com/store/apps/developer?id=AkraDev+Studio)
+- [GitHub organization](https://github.com/akra-devs)
+
+## Products
+
+- [Key Ddal](https://akra.kr/key-ddal/): ASMR keyboard app.
+- [CallFilm](https://akra.kr/mp4-transition-pages/): recordings with on-device AI captions, phrase search and video export.
+- [Stillstamp](https://akra.kr/stillstamp/): photo postcard app.
+- [WAXBALL / Bubblelock](https://akra.kr/waxball/): sensory game.
+
+Product-page publication dates in the company history are distinct from original app release dates. Concept and private projects in the gallery are labeled separately.

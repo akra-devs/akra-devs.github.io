@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akra.kr/sitemap.xml
